@@ -43,6 +43,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Agenda - Calendário com os agendamentos (consultas, vacinas, banhos, adestramento, pet sitter).
 - Notificações - Lista de lembretes: medicação, alimentação, passeios, higiene, etc.
 
+## 📊 <a id="mer"></a>Modelo entidade relacionamento
+
 ## 🔧 <a id="instalação"></a>Instalação
 
 ### Pré-requisitos
