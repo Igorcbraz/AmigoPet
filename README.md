@@ -45,6 +45,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📊 <a id="mer"></a>Modelo entidade relacionamento
 
+<p align="center">
+  <img src="database.png" alt="Logo" width="700"/>
+</p>
+
 ## 🔧 <a id="instalação"></a>Instalação
 
 ### Pré-requisitos
